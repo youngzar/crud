@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cities: MyText
+  venues: MyText
+  tickets_sold: 1
+  musicians_id: 
+
+two:
+  cities: MyText
+  venues: MyText
+  tickets_sold: 1
+  musicians_id: 

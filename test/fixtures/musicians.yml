@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  songs: MyText
+  monthly_listeners: 1
+  fans: 1
+
+two:
+  songs: MyText
+  monthly_listeners: 1
+  fans: 1

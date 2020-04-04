@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Songs:</strong>
+  <%= @musician.songs %>
+</p>
+
+<p>
+  <strong>Monthly listeners:</strong>
+  <%= @musician.monthly_listeners %>
+</p>
+
+<p>
+  <strong>Fans:</strong>
+  <%= @musician.fans %>
+</p>
+
+<%= link_to 'Edit', edit_musician_path(@musician) %> |
+<%= link_to 'Back', musicians_path %>
